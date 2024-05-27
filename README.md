@@ -2,7 +2,7 @@
 <br>
 <p>Projeto petshop </p>
 <div>
-    <img src="." alt="Foto-Petshop-website">
+    <img src="./img/WeCareYour.png" alt="Foto-Petshop-website">
 </div>
 <br>
 <h2>Tecnologias usadas</h2>
